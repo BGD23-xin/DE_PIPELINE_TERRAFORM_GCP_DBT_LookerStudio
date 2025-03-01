@@ -14,4 +14,4 @@ Code of test if terraform is installed correctly"
 ```bash
 terraform --version
 ```
-![photo](./photos/terraform_version.png)
+![photo](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/photos/terraform_version.png)
