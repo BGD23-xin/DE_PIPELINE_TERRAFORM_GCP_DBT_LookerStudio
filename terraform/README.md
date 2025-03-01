@@ -16,7 +16,7 @@ terraform --version
 ```
 ![photo](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/photos/terraform_version.png)
 
-## 2.Creation of [main.tf]() and [variables.tf]() for configuring infrastructure on GCP
+## 2.Creation of [main.tf](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/terraform/main.tf) and [variables.tf](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/terraform/variables.tf) for configuring infrastructure on GCP
 
 
 ```bash
