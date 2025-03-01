@@ -15,3 +15,10 @@ Code of test if terraform is installed correctly"
 terraform --version
 ```
 ![photo](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/photos/terraform_version.png)
+
+## 2.Creation of [main.tf]() and [variables.tf]() for configuring infrastructure on GCP
+
+
+```bash
+terraform fmt
+```
