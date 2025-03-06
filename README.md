@@ -15,6 +15,6 @@ The technologies used are :
 
 In this project, i used the vm instance of GCP cloud to simulate the pipeline ETL. With the help of terraform, i configured the VM instance, the dataset and google storage([file](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/operations/terraform)). 
 
-In the VM, i deployed Kestra with docker to do the workflows of extraction data and load them into bigquery([file](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/installations)).
+In the VM, i deployed Kestra with docker to do the workflows of extraction data and load them into bigquery([file](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/tree/operations/installations)).
 
-After that, we could use DBT([file](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/blob/dbt)) to transform data and get the purified data that we want. Then, we could use the visual tools like lookerstudio to display them.
+After that, we could use DBT([file](https://github.com/BGD23-xin/DE_PIPELINE_TERRAFORM_GCP_DBT_LookerStudio/tree/operations/dbt)) to transform data and get the purified data that we want. Then, we could use the visual tools like lookerstudio to display them. 
