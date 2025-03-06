@@ -3,7 +3,3 @@
 # INFO OF THIS PROJECT
 
 The aim of this project is to explore the possibilities of ETL pipeline.
-
-# INFO OF THIS PROJECT
-
-The aim of this project is to explore the possibilities of ETL pipeline.
